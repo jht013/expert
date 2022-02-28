@@ -15,10 +15,10 @@ source files/Convert_SMTP
 source files/Create_login
 
 # for recive test email [ if found aws smtp work to send - change this if u want ]
-TO_MAIL="wehatetherules@gmail.com"
+TO_MAIL="ber15gdoll@gmail.com"
 
 # auth for login to amazon console
-console_user="LazyBoy"
+console_user="23135787.122"
 console_pass="Java#Gh0st"
 
 # check depen
